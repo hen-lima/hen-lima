@@ -4,7 +4,7 @@
   
 ### <p align="left">Hi there ~</p> 
    
-  I'm a rookie having a blast at [42Porto.](https://www.42porto.com/)
+  I'm a rookie having a blast at [42Porto.](https://www.42porto.com/)<br>
   This is where I'll be ...........
 <br><br>
 
