@@ -2,9 +2,9 @@
 <p align="center">
    <img src="https://github.com/hen-lima/hen-lima/blob/main/banner.gif"/> 
   
-## <p align="center">Hello there, Lovely People :sparkles:</p> 
+### <p align="center">Hi there,</p> 
    
-  **Currently a rookie having a blast at [42Porto]([url](https://www.42porto.com/)).**
+  I'm a rookie having a blast at [42Porto]([url](https://www.42porto.com/)). :sparkles:
 
 ```javascript
 while (overwhelmed)
