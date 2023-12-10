@@ -23,5 +23,5 @@
    
   - [ft_printf](https://github.com/yourusername/project2) : pretty much a printf, minus the flags
   - [get_next_line](https://github.com/yourusername/project2) : should be called something else
-  - [Born2beroot](https://github.com/yourusername/project2) : virtual machine; no codes here, only the project descrition 
+  - [Born2beroot](https://github.com/yourusername/project2) : virtual machine; no codes here, only the project description 
 </details>  
