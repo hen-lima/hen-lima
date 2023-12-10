@@ -5,7 +5,7 @@
 ### <p align="left">Hi there ~</p> 
    
   I'm a rookie having a blast at [42Porto.](https://www.42porto.com/)
-  
+  This is where I'll be ...........
 <br><br>
 
 ## Common Core Projects ✨
