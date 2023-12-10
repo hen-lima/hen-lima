@@ -36,12 +36,12 @@
 ---
 
 <details>
-  <summary>whileOverwhelmed</summary>
-   
-```javascript
+  <summary>```javascript
 while (overwhelmed)
      listenTo(lofi);
-```
+```</summary>
+   
+
 </details>
 lofi = [playlist](https://t.ly/wPdvW)
 
