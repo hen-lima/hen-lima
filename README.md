@@ -8,7 +8,7 @@
   This is where I'll be uploading all projects developed during this insane journey.
 <br><br>
 
-## Common Core Projects ✨
+## Common Core Projects 
 
 <details>
   <summary>Rank 0</summary>
@@ -35,7 +35,7 @@
 <details>
   <summary>while (overwhelmed)</summary>
 
-   - listenToLofi([ playlist ](https://www.youtube.com/watch?v=rUxyKA_-grg));
+   - listenToLofi([ playlist ](https://www.youtube.com/watch?v=rUxyKA_-grg)); ✨
 </details>
 
 
