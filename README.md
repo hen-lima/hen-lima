@@ -38,12 +38,8 @@
 <details>
   <summary>while(overwhelmed)</summary>
 
-   - ```javascript
-while (overwhelmed)
-     listenTo(lofi);
-```
-
+   - listenToLofi([playlist](https://www.youtube.com/watch?v=rUxyKA_-grg))
 </details>
-lofi = [playlist](https://t.ly/wPdvW)
+
 
 
