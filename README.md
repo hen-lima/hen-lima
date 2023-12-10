@@ -8,7 +8,6 @@
   
 <br><br>
 ## Common Core Projects
-<br><br>
 
 <details>
   <summary>Rank 0</summary>
