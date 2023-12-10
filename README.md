@@ -39,3 +39,8 @@ lofi = [playlist](https://t.ly/wPdvW)
 while (overwhelmed)
      listenTo(lofi);
 ```
+
+```python
+def example_function():
+    # Your code here
+    return [Link Text](https://www.example.com/)
