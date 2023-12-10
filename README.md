@@ -8,7 +8,7 @@
 
 ```javascript
 while (overwhelmed)
-     listenToLofi(link [here]([url](https://www.youtube.com/watch?v=rUxyKA_-grg)));
+     listenToLofi();
 ```
 
 
