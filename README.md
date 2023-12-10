@@ -35,6 +35,8 @@
 
 ---
 ```javascript
+music playlist = t.ly/wPdvW
+
 while (overwhelmed)
-     listenToLofi();
+     listenToLofi(playlist);
 ```
