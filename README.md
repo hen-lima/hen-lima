@@ -4,14 +4,11 @@
   
 ### <p align="left">Hi there,</p> 
    
-  I'm a rookie having a blast at [42Porto](https://www.42porto.com/).
-
-
-
-   
+  I'm a rookie having a blast at [42Porto.](https://www.42porto.com/)
   
 <br><br>
-## Common Core Projects
+
+## Common Core Projects ✨
 
 <details>
   <summary>Rank 0</summary>
