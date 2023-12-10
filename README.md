@@ -30,7 +30,8 @@
   - [push_swap](https://github.com/hen-lima/student42/tree/master/push_swap) : sorting stuff with minimum effort
 </details>
 
-###
+<br>
+##
 
 <details>
   <summary>while (overwhelmed)</summary>
