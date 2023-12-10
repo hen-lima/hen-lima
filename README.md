@@ -5,7 +5,7 @@
 ### <p align="left">Hi there ~</p> 
    
   I'm a rookie having a blast at [42Porto.](https://www.42porto.com/)<br>
-  This is where I'll be uploading all projects developed during this insane journey.
+  This is where I'll be uploading all projects developed throughout the course.
 <br><br>
 
 ## Common Core Projects 
