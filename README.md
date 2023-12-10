@@ -1,7 +1,7 @@
 ###
+## Hi there lovely people
 
 <p align="center">
-## Hi there lovely people
    <img src="https://github.com/hen-lima/hen-lima/blob/main/ezgif.com-resize.gif" width="320"/> 
   
    
