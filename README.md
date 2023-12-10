@@ -6,10 +6,6 @@
    
   I'm a rookie having a blast at [42Porto](https://www.42porto.com/).
 
-```javascript
-while (overwhelmed)
-     listenToLofi();
-```
 
 
    
@@ -36,3 +32,9 @@ while (overwhelmed)
    
   - [push_swap](https://github.com/hen-lima/student42/tree/master/push_swap) : sorting stuff with minimum effort
 </details>
+
+---
+```javascript
+while (overwhelmed)
+     listenToLofi();
+```
