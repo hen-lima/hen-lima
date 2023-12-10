@@ -1,4 +1,4 @@
-# <p align="center">Hello ~~world~~ Lovely People</p>
+# <p align="center">Hello there, Lovely People</p> :sparkles:
 
 <p align="center">
    <img src="https://github.com/hen-lima/hen-lima/blob/main/banner.gif"/> 
