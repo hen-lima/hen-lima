@@ -1,7 +1,7 @@
 ###
 
 <p align="right">
-   <img src="https://github.com/hen-lima/hen-lima/blob/main/catcutegif.gif" width="80"/>
+   <img src="https://github.com/hen-lima/hen-lima/blob/main/ezgif.com-resize.gif" width="80"/> 
   
 ## Hi there lovely people
    
