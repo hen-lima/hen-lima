@@ -4,11 +4,11 @@
   
 ## <p align="center">Hello there, Lovely People :sparkles:</p> 
    
-  **Currently a rookie having a blast at [42Porto]([url](https://www.42porto.com/)).** .
+  **Currently a rookie having a blast at [42Porto]([url](https://www.42porto.com/)).**
 
 ```javascript
 while (overwhelmed)
-     listenToLofi("link here");
+     listenToLofi(link [here]([url](https://www.youtube.com/watch?v=rUxyKA_-grg)));
 ```
 
 
