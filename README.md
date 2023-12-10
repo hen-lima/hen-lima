@@ -6,7 +6,16 @@
    
   **Currently a rookie having a blast at [42Porto]([url](https://www.42porto.com/)).** .
 
-  while(overwhelmed)
+```javascript
+while (overwhelmed) {
+listenToLofi("link here");
+}
+```
+
+  .while(overwhelmed) {
+ color: red;
+}
+  
      listenToLofi(playlist [link]([url](https://www.youtube.com/watch?v=rUxyKA_-grg)));
    
   
