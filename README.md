@@ -1,5 +1,5 @@
 <p align="center">
-# Hello there lovely people
+<h1>Hello there lovely people<h1>
 </p>
 <p align="center">
    <img src="https://github.com/hen-lima/hen-lima/blob/main/banner.gif"/> 
