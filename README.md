@@ -40,7 +40,10 @@ while (overwhelmed)
      listenTo(lofi);
 ```
 
+In this Python code, the function returns a [link](https://www.example.com/):
+
 ```python
 def example_function():
     # Your code here
-    return [Link Text](https://www.example.com/)
+    return "[Link](https://www.example.com/)"
+
