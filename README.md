@@ -1,6 +1,6 @@
 ###
-<p align="center">
-## Hello there lovely people/> 
+
+## Hello there lovely people
 
 <p align="center">
    <img src="https://github.com/hen-lima/hen-lima/blob/main/ezgif.com-resize.gif" width="320"/> 
