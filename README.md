@@ -1,8 +1,8 @@
 
-<p align="left">
+<p align="center">
    <img src="https://github.com/hen-lima/hen-lima/blob/main/banner.gif"/> 
   
-### <p align="center">Hi there,</p> 
+### <p align="left">Hi there,</p> 
    
   I'm a rookie having a blast at [42Porto]([url](https://www.42porto.com/)). :sparkles:
 
