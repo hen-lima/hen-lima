@@ -21,7 +21,7 @@
    
   - [ft_printf](https://github.com/hen-lima/student42/tree/master/Printf) : pretty much a printf, minus the flags
   - [get_next_line](https://github.com/hen-lima/student42/tree/master/get_next_line) : returning a line read from a file descriptor
-  - [Born2beroot](https://github.com/yourusername/project2) : virtual machine; no codes here, only the project description 
+  - [Born2beroot](https://github.com/yourusername/project2) : virtual machine • no codes here, only the project description 
 </details>  
 
 <details>
