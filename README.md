@@ -34,10 +34,15 @@
 </details>
 
 ---
-lofi = [playlist](https://t.ly/wPdvW)
+
+<details>
+  <summary>whileOverwhelmed</summary>
+   
 ```javascript
 while (overwhelmed)
      listenTo(lofi);
 ```
+</details>
+lofi = [playlist](https://t.ly/wPdvW)
 
 
