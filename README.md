@@ -21,7 +21,7 @@
 <details>
   <summary>Rank 1</summary>
    
-  - [Printf](https://github.com/yourusername/project2)
-  - [Get_next_line](https://github.com/yourusername/project2)
+  - [ft_printf](https://github.com/yourusername/project2)
+  - [get_next_line](https://github.com/yourusername/project2) :
   - [Born2beroot](https://github.com/yourusername/project2)
 </details>  
