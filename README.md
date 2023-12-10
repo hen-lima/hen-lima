@@ -15,13 +15,13 @@
 <details>
   <summary>Rank 0</summary>
    
-  - [Libft](https://github.com/yourusername/project1)
+  - [Libft](https://github.com/yourusername/project1) : my own C library
 </details>
 
 <details>
   <summary>Rank 1</summary>
    
-  - [ft_printf](https://github.com/yourusername/project2)
-  - [get_next_line](https://github.com/yourusername/project2) :
-  - [Born2beroot](https://github.com/yourusername/project2)
+  - [ft_printf](https://github.com/yourusername/project2) : pretty much a printf, minus the flags
+  - [get_next_line](https://github.com/yourusername/project2) : should be called something else
+  - [Born2beroot](https://github.com/yourusername/project2) : virtual machine; no codes here, only the project descrition 
 </details>  
