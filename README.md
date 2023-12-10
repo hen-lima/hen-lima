@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
    <img src="https://github.com/hen-lima/hen-lima/blob/main/banner.gif"/> 
   
 ### <p align="center">Hi there,</p> 
