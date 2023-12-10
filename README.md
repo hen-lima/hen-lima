@@ -33,7 +33,7 @@
 <br>
 
 ```
-The road so far: Unix, C, Git
+.The road so far: Unix, C, Git
 ```
 
 <br>
