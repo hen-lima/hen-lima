@@ -4,7 +4,7 @@
   
 ### <p align="left">Hi there,</p> 
    
-  I'm a rookie having a blast at [42Porto]([url](https://www.42porto.com/)). :sparkles:
+  I'm a rookie having a blast at [42Porto]([url](https://www.42porto.com/)).
 
 ```javascript
 while (overwhelmed)
