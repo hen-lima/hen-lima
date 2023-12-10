@@ -34,8 +34,8 @@
 </details>
 
 ---
-music playlist = [lofi](https://t.ly/wPdvW)
+lofi = [playlist](https://t.ly/wPdvW)
 ```javascript
 while (overwhelmed)
-     listenToLofi(playlist);
+     listenTo(lofi);
 ```
