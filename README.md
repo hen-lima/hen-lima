@@ -5,7 +5,7 @@
   <div style="flex: 3; padding-right: 20px;">
   
 
-  <p align="center"><img src="https://github.com/hen-lima/hen-lima/blob/main/catcutegif.gif" alt="Project Showcase" width="80"/>
+  <p align="right"><img src="https://github.com/hen-lima/hen-lima/blob/main/catcutegif.gif" alt="Project Showcase" width="80"/>
   
   </div>
   
