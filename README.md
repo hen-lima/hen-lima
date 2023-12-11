@@ -44,10 +44,11 @@ The road so far: Unix, C, Git
 </details>
 
 <details>
-  <summary><code><span style="color: pink;">while</span> (overwhelmed)</code></summary>
+  <summary><code><font color="pink">while</font> (overwhelmed)</code></summary>
 
   - <code>listenToLofi(<a href="https://www.youtube.com/watch?v=rUxyKA_-grg">playlist</a>);</code> ✨
 </details>
+
 
 
 
