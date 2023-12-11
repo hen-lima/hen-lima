@@ -10,19 +10,22 @@
 
 ## Common Core Projects 
 
+<details>
+  <summary>What is it?</summary>
   There's sort of a radial scheme we call the **Holy Graph**. It organizes our projects into tiers, starting from 0 at the innermost part and extending to the outermost level 6.
   As we progress from the center-outwards, the complexity of each project also exponentially increases.<br>
   It also takes passing a test to move from one rank to another. We receive tiny ducks once we do so, which is pretty cool. 
   All those projects and tests combined compound The **Common Core**. 
+/</details>
 
-  Way more important than all that, we are grant tiny rubber ducks for each test we successfuly pass.
-  <br>
 <details>
   <summary>Rank 0</summary>
    
   - [Libft](https://github.com/hen-lima/student42/tree/master/Libft) : my own C library <kbd>Bonus ✓ </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
 
 </details>
+  Way more important than all that, we are grant tiny rubber ducks for each test we successfuly pass.
+  <br>
 
 <details>
   <summary>Rank 1</summary>
