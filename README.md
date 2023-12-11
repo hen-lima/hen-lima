@@ -13,7 +13,7 @@
 <details>
   <summary>Rank 0</summary>
    
-  - [Libft](https://github.com/hen-lima/student42/tree/master/Libft) : my own C library
+  - [Libft](https://github.com/hen-lima/student42/tree/master/Libft) : my own C library <kbd>Bonus ✓ </kbd>
 </details>
 
 <details>
@@ -36,15 +36,7 @@
 The road so far: Unix, C, Git
 ```
 
-<code>The road so far: Unix, C, Git</code> 
-
 ##
-
-<details>
-  <summary>while (overwhelmed)</summary>
-
-   - listenToLofi([ playlist ](https://www.youtube.com/watch?v=rUxyKA_-grg)); ✨
-</details>
 
 <details>
   <summary><code><font color="pink">while</font> (overwhelmed)</code></summary>
