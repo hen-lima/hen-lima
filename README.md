@@ -11,14 +11,11 @@
 ## Common Core Projects 
 
 <details>
-  <summary>Intro</summary>
+  <summary>Description</summary>
   
-  <br>There's sort of a radial scheme we call the **Holy Graph**. It organizes our projects into tiers, starting from 0 at the innermost part and extending to the outermost level 6.
-  As we progress from the center-outwards, the complexity of each project also exponentially increases.<br>
+  <br>The **Common Core** is the result of all projects and tests we progress through during our journey at 42. This educational framework is assembled into tiers and can be tracked by using the **Holy Graph**: a radial scheme starting 
+  from rank 0 at the core and expanding outwards until 6.<br>
   <br>
-  It also takes passing a test to move from one rank to another. We receive tiny ducks once we do so, which is pretty cool. 
-  Finally, the **Common Core** is the result of all those projects and tests combined.
-  <br><br>
 </details>
 
 <details>
