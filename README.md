@@ -14,7 +14,7 @@
   <summary>Description</summary>
   
   <br>The **Common Core** is the combination of all projects and tests we progress through before chosing a specialty. The curriculum is assembled into tiers and can be tracked by using the **Holy Graph**: a radial scheme starting 
-  from 0 at the core and expanding outwards until rank 6.<br>
+  from 0 at the innermost part and expanding outwards until rank 6.<br>
   <br>
   All projects have a Mandatory and a Bonus part. Completing the Bonus part will always grant extra points.<br>
   The tags <kbd>Bonus ✓ </kbd> and <kbd><samp>XXX / 100</samp></kbd> will respectivelly indicate which of my projects were submitted with Bonus, as well as the final score.<br>
