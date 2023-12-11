@@ -16,6 +16,9 @@
   <br>The **Common Core** is the result of all projects and tests we progress through during our journey at 42. This educational framework is assembled into tiers and can be tracked by using the **Holy Graph**: a radial scheme starting 
   from 0 at the core and expanding outwards until rank 6.<br>
   <br>
+  <br>All projects have a Mandatory and a Bonus part. Completing the Bonus part will always grant extra score.<br>
+  The tags <kbd>Bonus ✓ </kbd> and <kbd><samp>XXX / 100</samp></kbd> will indicate which of my projects were submited with Bonus, as well as its final score.
+  <br>
 </details>
 
 <details>
