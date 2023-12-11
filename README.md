@@ -17,7 +17,7 @@
   from 0 at the core and expanding outwards until rank 6.<br>
   <br>
   All projects have a Mandatory and a Bonus part. Completing the Bonus part will always grant extra score.<br>
-  The tags  <kbd>Bonus ✓ </kbd>  and  <kbd><samp>XXX / 100</samp></kbd>  will respectivelly indicate which of my projects were submited with Bonus, as well as its final score.
+  The tags <kbd>Bonus ✓ </kbd> and <kbd><samp>XXX / 100</samp></kbd> will respectivelly indicate which of my projects were submited with Bonus, as well as the final score.<br>
   <br>
 </details>
 
