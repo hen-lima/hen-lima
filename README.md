@@ -15,7 +15,7 @@
 
   <br>The **Common Core** is the combination of all projects and tests we progress through before choosing a specialty. Its content is assembled into tiers and can be tracked by using the **Holy Graph**: a radial scheme starting from  rank 0 at its core and expanding outwards until rank 6.<br>
 
-  All projects have a **Mandatory** and a **Bonus** part. The Bonus is only accessed if the Mandatory part is flawless, and succeeding on it will always grant you extra points. The tags <kbd>Bonus ✓ </kbd> and <kbd><samp>*** / 100</samp></kbd> will indicate whether or not a project was submitted with Bonus, and what was the final score.
+  All projects have a **Mandatory** and a **Bonus** part. The Bonus is only accessed if the Mandatory part is flawless, and succeeding on it will always grant you extra points. The tags <kbd>Bonus ✓ </kbd> and <kbd><samp>*** / 100</samp></kbd> will indicate whether a project was submitted with Bonus or not, and what was the final score.
   <br><br>
 </details>
 
