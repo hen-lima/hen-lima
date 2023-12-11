@@ -10,6 +10,9 @@
 
 ## Common Core Projects 
 
+  There's sort of a radial scheme that we call the **Holy Graph**. It displays our projects into tiers, starting from 0 which is the inner part, until the outmost level 6.<br>
+  As we advance from the center of the graph outwards, the difficulty also exponentially increases.<br>
+  To successfully conclude all projects and each rank's test, is to successfully complete the **Common Core**.
 <details>
   <summary>Rank 0</summary>
    
