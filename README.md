@@ -13,7 +13,7 @@
 <details>
   <summary>Rank 0</summary>
    
-  - [Libft](https://github.com/hen-lima/student42/tree/master/Libft) : my own C library <kbd>Bonus ✓ </kbd> <kbd>{\color{lightgreen}125}</kbd>
+  - [Libft](https://github.com/hen-lima/student42/tree/master/Libft) : my own C library <kbd>Bonus ✓ </kbd> <kbd>${\color{lightgreen}125}$</kbd>
 </details>
 
 <details>
