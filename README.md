@@ -17,6 +17,7 @@
   It also takes passing a test to move from one rank to another. We receive tiny ducks once we do so, which is pretty cool. 
   All those projects and tests combined compound The **Common Core**. 
   Way more important than all that, we are grant tiny rubber ducks for each test we successfuly pass.
+  <br>
 </details>
 
 <details>
@@ -25,7 +26,6 @@
   - [Libft](https://github.com/hen-lima/student42/tree/master/Libft) : my own C library <kbd>Bonus ✓ </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
 
 </details>
-  <br>
 
 <details>
   <summary>Rank 1</summary>
