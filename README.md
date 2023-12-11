@@ -41,7 +41,7 @@ The road so far: Unix, C, Git
 <details>
   <summary>while (overwhelmed)</summary>
 
-  - listenToLofi(href="https://www.youtube.com/watch?v=rUxyKA_-grg">playlist); ✨
+  - listenToLofi([playlist](https://www.youtube.com/watch?v=rUxyKA_-grg)); ✨
 </details>
 
 
