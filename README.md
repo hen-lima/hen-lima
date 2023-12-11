@@ -20,8 +20,8 @@
   <summary>Rank 1</summary>
    
   - [ft_printf](https://github.com/hen-lima/student42/tree/master/Printf) : pretty much a printf, minus the flags
-  - [get_next_line](https://github.com/hen-lima/student42/tree/master/get_next_line) : returning a line read from a file descriptor
-  - [Born2beroot](https://github.com/hen-lima/student42/tree/master/Born2beroot) : virtual machine • no codes here, only the project description 
+  - [get_next_line](https://github.com/hen-lima/student42/tree/master/get_next_line) : returning a line read from a file descriptor <kbd>Bonus ✓ </kbd>
+  - [Born2beroot](https://github.com/hen-lima/student42/tree/master/Born2beroot) : virtual machine • no codes here, only the project description <kbd>Bonus ✓ </kbd>
 </details>  
 
 <details>
