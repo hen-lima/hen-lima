@@ -13,22 +13,22 @@
 <details>
   <summary>Rank 0</summary>
    
-  - [Libft](https://github.com/hen-lima/student42/tree/master/Libft) : my own C library <kbd>Bonus ✓ </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd> <kbd><samp>$$\color{lightgreen}{\frac{125}{100}}$$</samp></kbd>
+  - [Libft](https://github.com/hen-lima/student42/tree/master/Libft) : my own C library <kbd>Bonus ✓ </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
 
 </details>
 
 <details>
   <summary>Rank 1</summary>
    
-  - [ft_printf](https://github.com/hen-lima/student42/tree/master/Printf) : pretty much a printf, minus the flags
-  - [get_next_line](https://github.com/hen-lima/student42/tree/master/get_next_line) : returning a line read from a file descriptor <kbd>Bonus ✓ </kbd>
-  - [Born2beroot](https://github.com/hen-lima/student42/tree/master/Born2beroot) : virtual machine • no codes here, only the project description <kbd>Bonus ✓ </kbd>
+  - [ft_printf](https://github.com/hen-lima/student42/tree/master/Printf) : pretty much a printf, minus the flags </kbd> <kbd><samp>100 / 100</samp></kbd>
+  - [get_next_line](https://github.com/hen-lima/student42/tree/master/get_next_line) : returning a line read from a file descriptor <kbd>Bonus ✓ </kbd> </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
+  - [Born2beroot](https://github.com/hen-lima/student42/tree/master/Born2beroot) : virtual machine • no codes here, only the project description <kbd>Bonus ✓ </kbd> </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
 </details>  
 
 <details>
   <summary>Rank 2</summary>
    
-  - [push_swap](https://github.com/hen-lima/student42/tree/master/push_swap) : sorting stuff with minimum effort
+  - [push_swap](https://github.com/hen-lima/student42/tree/master/push_swap) : sorting stuff with minimum effort </kbd> <kbd><samp>... / 100</samp></kbd>
 </details>
 
 <br>
