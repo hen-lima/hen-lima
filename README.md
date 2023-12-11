@@ -15,6 +15,7 @@
   
   <br>There's sort of a radial scheme we call the **Holy Graph**. It organizes our projects into tiers, starting from 0 at the innermost part and extending to the outermost level 6.
   As we progress from the center-outwards, the complexity of each project also exponentially increases.<br>
+  <br>
   It also takes passing a test to move from one rank to another. We receive tiny ducks once we do so, which is pretty cool. 
   Finally, the **Common Core** is the result of all those projects and tests combined.
   <br><br>
