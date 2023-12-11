@@ -13,11 +13,11 @@
 <details>
   <summary>Description</summary>
   
-  <br>The **Common Core** is the result of all projects and tests we progress through during our journey at 42. This educational framework is assembled into tiers and can be tracked by using the **Holy Graph**: a radial scheme starting 
+  <br>The **Common Core** is the combination of all projects and tests we progress through. This educational framework is assembled into tiers and can be tracked by using the **Holy Graph**: a radial scheme starting 
   from 0 at the core and expanding outwards until rank 6.<br>
   <br>
   All projects have a Mandatory and a Bonus part. Completing the Bonus part will always grant extra score.<br>
-  The tags <kbd>Bonus ✓ </kbd> and <kbd><samp>XXX / 100</samp></kbd> will respectivelly indicate which of my projects were submited with Bonus, as well as the final score.<br>
+  The tags <kbd>Bonus ✓ </kbd> and <kbd><samp>XXX / 100</samp></kbd> will respectivelly indicate which of my projects were submitted with Bonus, as well as the final score.<br>
   <br>
 </details>
 
@@ -31,9 +31,9 @@
 <details>
   <summary>Rank 1</summary>
    
-  - [ft_printf](https://github.com/hen-lima/student42/tree/master/Printf) : pretty much a printf, minus the flags </kbd> <kbd><samp>100 / 100</samp></kbd>
-  - [get_next_line](https://github.com/hen-lima/student42/tree/master/get_next_line) : returning a line read from a file descriptor <kbd>Bonus ✓ </kbd> </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
-  - [Born2beroot](https://github.com/hen-lima/student42/tree/master/Born2beroot) : virtual machine • no codes here, only the project description <kbd>Bonus ✓ </kbd> </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
+  - [ft_printf](https://github.com/hen-lima/student42/tree/master/Printf) : pretty much a printf, minus the flags <kbd><samp>100 / 100</samp></kbd>
+  - [get_next_line](https://github.com/hen-lima/student42/tree/master/get_next_line) : returning a line read from a file descriptor <kbd>Bonus ✓ </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
+  - [Born2beroot](https://github.com/hen-lima/student42/tree/master/Born2beroot) : virtual machine • no codes here, only the project description <kbd>Bonus ✓ </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
 </details>  
 
 <details>
