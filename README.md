@@ -14,7 +14,7 @@
   <summary>Description</summary>
   
   <br>The **Common Core** is the result of all projects and tests we progress through during our journey at 42. This educational framework is assembled into tiers and can be tracked by using the **Holy Graph**: a radial scheme starting 
-  from rank 0 at the core and expanding outwards until 6.<br>
+  from 0 at the core and expanding outwards until rank 6.<br>
   <br>
 </details>
 
