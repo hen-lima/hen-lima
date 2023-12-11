@@ -10,9 +10,13 @@
 
 ## Common Core Projects 
 
-  There's sort of a radial scheme that we call the **Holy Graph**. It displays our projects into tiers, starting from 0 which is the inner part, until the outmost level 6.<br>
-  As we advance from the center of the graph outwards, the difficulty also exponentially increases.<br>
-  To successfully conclude all projects and each rank's test, is to successfully complete the **Common Core**.
+  There's sort of a radial scheme we call the **Holy Graph**. It organizes our projects into tiers, starting from 0 at the innermost part and extending to the outermost level 6.
+  As we progress from the center-outwards, the complexity of each project also exponentially increases.<br>
+  It also takes passing a test to move from one rank to another. We receive tiny ducks once we do so, which is pretty cool. 
+  All those projects and tests combined compound The **Common Core**. 
+
+  Way more important than all that, we are grant tiny rubber ducks for each test we successfuly pass.
+  <br>
 <details>
   <summary>Rank 0</summary>
    
