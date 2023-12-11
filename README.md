@@ -15,7 +15,7 @@
 
   <br>The **Common Core** is the combination of all projects and exams we go through before choosing a specialty. Its content is assembled into ranks and can be tracked by our **Holy Graph**: a radial scheme displaying all available subjects.<br>
 
-  All projects have a **Mandatory** and a **Bonus** part. The <kbd>Bonus ${\color{lightgreen}✓}$</kbd> is only accessed if the Mandatory part is flawless, and by succeeding on it we're granted extra score: <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>.
+  All projects have a **Mandatory** and a **Bonus** part. The <kbd>Bonus ${\color{lightgreen}✓}$</kbd> is only accessed if the Mandatory part is flawless, and by succeeding on it we're granted up to 25% extra score: <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>.
   <br><br>
 </details>
 
