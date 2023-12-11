@@ -44,8 +44,7 @@ The road so far: Unix, C, Git
 </details>
 
 <details>
-  <summary><kbd>while (overwhelmed)<kbd></summary>
-<code>highlight</code>
+  <summary><code>while (overwhelmed)<code></summary>
 
    - <kbd>listenToLofi([ playlist ](https://www.youtube.com/watch?v=rUxyKA_-grg)); ✨<kbd>
 </details>
