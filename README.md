@@ -32,7 +32,7 @@
 <details>
   <summary>Rank 1</summary>
    
-  - [ft_printf](https://github.com/hen-lima/student42/tree/master/Printf) : pretty much a printf, minus the flags <kbd><samp>100 / 100</samp></kbd>
+  - [ft_printf](https://github.com/hen-lima/student42/tree/master/Printf) : pretty much a printf, minus the flags<br> <kbd><samp>100 / 100</samp></kbd>
   - [get_next_line](https://github.com/hen-lima/student42/tree/master/get_next_line) : returning a line read from a file descriptor <kbd>Bonus ${\color{lightgreen}✓}$</kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
   - [Born2beroot](https://github.com/hen-lima/student42/tree/master/Born2beroot) : virtual machine • no codes here, only the project description <kbd>Bonus ${\color{lightgreen}✓}$</kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
 </details>  
