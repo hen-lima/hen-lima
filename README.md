@@ -35,6 +35,9 @@
 ```
 The road so far: Unix, C, Git
 ```
+
+<code>The road so far: Unix, C, Git<code>
+
 ##
 
 <details>
