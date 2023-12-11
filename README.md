@@ -40,7 +40,7 @@
 <details>
   <summary>Rank 2</summary>
    
-  - [push_swap](https://github.com/hen-lima/student42/tree/master/push_swap) : sorting stuff with minimum effort<br> <kbd><samp>Work in progress</samp></kbd>
+  - [push_swap](https://github.com/hen-lima/student42/tree/master/push_swap) : sorting stuff with minimum effort <kbd><samp>work in progress</samp></kbd>
 
 <br>
 
