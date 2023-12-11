@@ -15,7 +15,7 @@
 
   <br>The **Common Core** is the combination of all projects and tests we progress through before choosing a specialty. Its content is assembled into tiers and can be tracked by using the **Holy Graph**: a radial scheme starting from  rank 0 at its core and expanding outwards until rank 6.<br>
 
-  All projects have a **Mandatory** and a **Bonus** part. The Bonus is only accessed if the Mandatory part is flawless, and succeeding on it will always grant you extra points. The tags <kbd>Bonus ✓ </kbd> and <kbd><samp>*** / 100</samp></kbd> will indicate whether a project was submitted with Bonus or not, and what was the final score.
+  All projects have a **Mandatory** and a **Bonus** part. The Bonus is only accessed if the Mandatory part is flawless, and succeeding on it will always grant you extra points. The tags <kbd>Bonus ${\color{violet}✓}$</kbd> and <kbd><samp>*** / 100</samp></kbd> will indicate whether a project was submitted with Bonus or not, and what was the final score.
   <br><br>
 </details>
 
@@ -25,7 +25,7 @@
 <details>
   <summary>Rank 0</summary>
    
-  - [Libft](https://github.com/hen-lima/student42/tree/master/Libft) : my own C library <kbd>Bonus ${\color{violet}✓}$ </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
+  - [Libft](https://github.com/hen-lima/student42/tree/master/Libft) : my own C library <kbd>Bonus ${\color{violet}✓}$</kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
 
 </details>
 
@@ -33,8 +33,8 @@
   <summary>Rank 1</summary>
    
   - [ft_printf](https://github.com/hen-lima/student42/tree/master/Printf) : pretty much a printf, minus the flags <kbd><samp>100 / 100</samp></kbd>
-  - [get_next_line](https://github.com/hen-lima/student42/tree/master/get_next_line) : returning a line read from a file descriptor <kbd>Bonus ✓ </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
-  - [Born2beroot](https://github.com/hen-lima/student42/tree/master/Born2beroot) : virtual machine • no codes here, only the project description <kbd>Bonus ✓ </kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
+  - [get_next_line](https://github.com/hen-lima/student42/tree/master/get_next_line) : returning a line read from a file descriptor <kbd>Bonus ${\color{violet}✓}$</kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
+  - [Born2beroot](https://github.com/hen-lima/student42/tree/master/Born2beroot) : virtual machine • no codes here, only the project description <kbd>Bonus ${\color{violet}✓}$</kbd> <kbd><samp>${\color{lightgreen}125}$ / 100</samp></kbd>
 </details>  
 
 <details>
